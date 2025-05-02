@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello 👋
+I am a-t-em, a self-taught dev who just broke into the tech industry.
+- 🔭 I’m currently focused on my job, where I am working on desktop apps and server-side programming among many other things - it's a role with a diverse tech stack. 
+- 👯 I’m still looking for opportunities to contribute to open source or give back to the programming community even though I don't have much time now for projects of my own. 
+- 🤔 I’m looking for help with becoming a more well-rounded developer and building experience in FOSS.
+- 📫 How to reach me: I keep an eye on my LinkedIn!
 
-<!--
-**a-t-em/a-t-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Rank | Languages I Work With the Most                   |
+|-----:|:-------------------------------------------------|
+|    1 | Python – for my personal data science projects   |
+|    2 | C# – for desktop app development                 |
+|    3 | Java – for server-side programming               |
+|    4 | C++ – for low-level programming                  |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
